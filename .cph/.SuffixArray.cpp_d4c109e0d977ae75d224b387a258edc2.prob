@@ -1,0 +1,1 @@
+{"name":"Local: SuffixArray","url":"d:\\ImportantAlgo\\SuffixArray.cpp","tests":[{"id":1690216379507,"input":"8\nabbccddd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ImportantAlgo\\SuffixArray.cpp","group":"local","local":true}
