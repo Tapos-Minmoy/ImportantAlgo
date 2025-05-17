@@ -1,2 +1,2 @@
-#some importance algorithm implemented using c++ by author
-#author:: Tapos Das Minmoy
+# some importance algorithm implemented using c++ by author
+# author:: Tapos Das Minmoy
